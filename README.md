@@ -8,6 +8,6 @@ After `git clone https://github.com/dani-77/suckless`
 Run `chmod +x *_install.sh`
 
 And then run your script.
-Example: `sh debia_install.sh`
+Example: `sh debian_install.sh`
 
 Enjoy.
