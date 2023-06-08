@@ -10,6 +10,6 @@ Run `chmod +x *_install.sh`
 And then run your script.
 Example: `sh debian_install.sh`
 
-Included are 2 extra scripts for creation of .profile or .xinitrc.
+Included are 2 extra scripts for creation of .profile or .xinitrc
 
 Enjoy.
