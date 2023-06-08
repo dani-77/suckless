@@ -2,7 +2,7 @@
 
 echo You are about to install all dependencies needed to compile suckless tools.
 
-sudo pacman -Sy git libxinerama libxft base-devel ttf-hack ttf-font-awesome xautolock gcr gcr-4 webkit2gtk webkit2gtk-5.0 webkit2gtk-4.1 picom 
+sudo pacman -Sy libxinerama libxft base-devel ttf-hack ttf-font-awesome xautolock gcr gcr-4 webkit2gtk webkit2gtk-5.0 webkit2gtk-4.1 picom 
 clear
 
 
