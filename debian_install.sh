@@ -53,4 +53,8 @@ sudo make install
 cd ..
 clear
 
+echo Wallpaper
+cp dwm_linux-wallpaper-1366x768.jpg ~/
+clear
+
 echo ==========THE=END==========
