@@ -1,4 +1,4 @@
-#%bin/bash
+#!bin/bash
 
 echo You are about to install all dependencies needed to compile suckless tools.
 
@@ -54,6 +54,7 @@ cd ..
 clear
 
 echo Wallpaper
+sleep 3
 cp dwm_linux-wallpaper-1366x768.jpg ~/
 clear
 
