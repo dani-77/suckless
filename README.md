@@ -19,6 +19,6 @@ sh debian_install.sh
 
 Included are 2 extra scripts for creation of .profile or .xinitrc and a wallpaper.
 
-![screenshot](dwm_linux-wallpaper-1366x768.jpg?raw=true)
+![screenshot](dwm-black-white.png?raw=true)
 
 Enjoy.
