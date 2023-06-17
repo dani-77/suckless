@@ -55,7 +55,7 @@ clear
 
 echo Wallpaper
 sleep 3
-cp dwm_linux-wallpaper-1366x768.jpg ~/
+cp dwm-black-white.png ~/
 clear
 
 echo ==========THE=END==========
