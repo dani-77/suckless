@@ -1,7 +1,7 @@
 # suckless
 ### Suckless tools config and install scripts
 
-Simple suckless tools install scripts for Arch/Debian/Void based linux distributions.
+Simple suckless tools install scripts for Arch/Debian/Gentoo/Void based linux distributions.
 
 After 
 ```shell
