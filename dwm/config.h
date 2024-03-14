@@ -34,6 +34,8 @@ static const Rule rules[] = {
 	{ "scribus",		  NULL,	      NULL,	  1 << 4,	0,		-1 },
 	{ "mpv",    		  NULL,	      NULL,       1 << 3,	0,		-1 },
 	{ "steam",    		  NULL,	      NULL,       1 << 3,	0,		-1 },
+	{ "lutris",    		  NULL,	      NULL,       1 << 3,	0,		-1 },
+	{ "scummvm",    	  NULL,	      NULL,       1 << 3,	0,		-1 },
 	{ "vlc",    		  NULL,       NULL,	  1 << 3,	0,		-1 },
 	{ "minigalaxy",	    	  NULL,       NULL,	  1 << 3,	0,		-1 },
 	{ "lutris",	    	  NULL,       NULL,            4,	0,		-1 },	
