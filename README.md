@@ -16,7 +16,7 @@ Or
 $ sh "Appropriate" script 
 ```
 
-2 extra scripts for creation of .profile or .xinitrc, a wallpaper and an alternative slock locker avilable.
+2 extra scripts for creation of .profile or .xinitrc, a wallpaper and an alternative slock locker available.
 
 ![screenshot](dwm-black-white.png?raw=true)
 
