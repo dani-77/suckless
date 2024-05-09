@@ -1,6 +1,6 @@
 /* user and group to drop privileges to */
 static const char *user  = "dani77";
-static const char *group = "wheel";
+static const char *group = "users";
 
 static const char *colorname[NUMCOLS] = {
 	[INIT] =   "black",     /* after initialization */
@@ -12,4 +12,4 @@ static const char *colorname[NUMCOLS] = {
 static const int failonclear = 1;
 
 /* Background image path, should be available to the user above */
-static const char* background_image = "slock.png";
+static const char* background_image = "/home/dani77/notabug/suckless/slock_image/warrant-web-1280.png";
