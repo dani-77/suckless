@@ -2,7 +2,7 @@
 
 echo You are about to install all dependencies needed to compile suckless tools.
 
-sudo xbps-install base-devel libX11-devel libXft-devel libXinerama-devel freetype-devel fontconfig-devel font-awesome font-hack-ttf xautolock feh gcr-devel gcr4-devel webkit2gtk-devel picom
+sudo xbps-install base-devel libX11-devel libXft-devel libXinerama-devel freetype-devel fontconfig-devel font-awesome font-hack-ttf xautolock feh gcr-devel gcr4-devel webkit2gtk-devel picom xorg xinit
 clear
 
 

@@ -2,7 +2,7 @@
 
 echo You are about to install all dependencies needed to compile suckless tools.
 
-sudo apt install feh libxinerama-dev libxft-dev build-essential fonts-hack fonts-font-awesome xautolock libgcr-3-dev libwebkit2gtk-4.0-dev libwebkit2gtk-4.1-dev picom
+sudo apt install feh libxinerama-dev libxft-dev build-essential fonts-hack fonts-font-awesome xautolock libgcr-3-dev libwebkit2gtk-4.0-dev libwebkit2gtk-4.1-dev picom xinit xorg
 clear
 
 

@@ -2,7 +2,7 @@
 
 echo You are about to install all dependencies needed to compile suckless tools.
 
-sudo emerge -ag feh libXinerama libXft media-fonts/hack media-fonts/fontawesome xautolock app-crypt/gcr net-libs/webkit-gtk  picom
+sudo emerge -ag feh libXinerama libXft media-fonts/hack media-fonts/fontawesome xautolock app-crypt/gcr net-libs/webkit-gtk  picom xinit xorg-server
 clear
 
 
