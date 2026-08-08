@@ -1,5 +1,5 @@
 <h1 align="center">
-  Suckless
+Suckless
   Suckless tools config and install scripts
 </h1>
 
