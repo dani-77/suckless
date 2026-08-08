@@ -1,4 +1,4 @@
-# suckless
+<h1 align="center">suckless</h1>
 ### Suckless tools config and install scripts
 
 Simple suckless tools install scripts for Arch/Debian/Gentoo/Void based linux distributions.
