@@ -1,6 +1,4 @@
 <h1 align="center">
-Suckless
-  
   Suckless tools config and install scripts
 </h1>
 
